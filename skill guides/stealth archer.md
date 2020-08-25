@@ -31,7 +31,7 @@ For creating an Orcish character, please make sure to follow the rules listed in
 
 After putting your name, making sure you're bald, and the skin tone is correct, choose Hiding and Archery while keeping Strength at 50 (this will be very important for Archery later on) as below:
 
-![Screenshot from 2020-08-24 15-40-42](https://user-images.githubusercontent.com/15008772/91103556-9f0d1c80-e620-11ea-92d7-f8843b80dabf.png)
+<img src="https://user-images.githubusercontent.com/15008772/91103556-9f0d1c80-e620-11ea-92d7-f8843b80dabf.png" alt="character creation" width="500">
 
 
 ## Skill Gain
@@ -42,10 +42,9 @@ Please follow the skill training guide as the ordering matters.
 
 Starting in Shelter Island, proceed to the New Player Dungeon:
 
-
+<img src="https://user-images.githubusercontent.com/15008772/91106377-586ef080-e627-11ea-894c-31bfe4e87bcc.png" alt="shelter island map" width="500">
 
 There should be a few people macroing skills just inside to the left, walk into the crowd to ensure spawn does not bother you:
-
 
 Once there, use the following script:
 ```
@@ -54,6 +53,12 @@ while skill 'hiding' < 70
     wait 10500
 endwhile
 ```
+
+After achieving 70 skill, exit the dungeon and head to the Shelter Island moongate:
+
+<img src="https://user-images.githubusercontent.com/15008772/91116009-46e61280-e640-11ea-8ce4-6c831473478c.png" alt="shelter island map" width="500">
+
+At the gate, you will have to renounce your young status in order to leave. Do so.
 
 
 ####  [Stealth](https://uooutlands.com/wiki/Stealth "Stealth")
